@@ -26,8 +26,11 @@ This basically does a tree search over the state of possible actions.
 6. `LangGraph` is a graph-based workflow system built on LangChain, designed for building AI-driven applications. Unlike traditional linear workflows, LangGraph allows branching, looping, and dynamic routing, making it an ideal choice for complex, multi-step workflows.
 
 7. In AI applications, traditional workflows often follow a step-by-step process (sequential flow). However, real-world AI applications require:
+
 ✅ Decision-making (Branching logic based on conditions)
+
 ✅ Looping Mechanisms (Re-evaluating inputs dynamically)
+
 ✅ Parallel Processing (Executing multiple actions simultaneously)
 
 LangGraph solves these problems by offering graph-based execution, where nodes can be dynamically linked, and state management ensures data persistence.
