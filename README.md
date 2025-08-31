@@ -1,3 +1,3 @@
 # Agentic-AI-Projects
 
-This repository features a collection of agentic AI projects spanning various domains, tasks, use-cases, frameworks, techniques, tools, and LLMs as well as agent communication protocols. These projects provide valuable insights into the practical applications of AI agents in diverse real-world scenarios.
+This repository features a diverse collection of agentic AI projects covering multiple domains, tasks, and real-world use cases. It highlights different frameworks, techniques, tools, LLMs, and agent communication protocols, offering practical insights into how AI agents can be used in real-world scenarios.
